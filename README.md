@@ -4,7 +4,7 @@
   <img src="images/greekvase.png" alt="Greek vase" width="33%">
 </div>
 
-The Ithaca benchmark is the first-ever composite benchmark on humanities task and data. 
+The Ithaca benchmark is the first-ever composite benchmark on humanities tasks and data. 
 
 
 ## How to use the benchmark
